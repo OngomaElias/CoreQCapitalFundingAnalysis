@@ -1,0 +1,2 @@
+# CoreQCapitalFundingAnalysis
+Business Intelligence Analysis
